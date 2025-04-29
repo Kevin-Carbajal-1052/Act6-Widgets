@@ -18,7 +18,8 @@
 - PANTALLA NUEVE:
 - ![image](https://github.com/user-attachments/assets/208aba37-a4fc-48c6-93df-903fac74390e)
 - PANTALLA DIEZ:
-- 
+- ![image](https://github.com/user-attachments/assets/9beeb892-fdfa-4069-b9e0-7359bdb36589)
+
 - PANTALLA ONCE:
 - ![image](https://github.com/user-attachments/assets/1e8e1f5b-9c5f-4f40-aa9d-04acde4e8a2b)
 
